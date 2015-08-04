@@ -1,0 +1,17 @@
+*{
+  list-style: none;
+}
+body {
+  background-color: #C9DFFF;
+}
+.h1 {
+  font-size: 50px;
+  font-family: arial;
+  text-align: center;
+  color: green;
+ }
+.img1{
+
+  padding-left: 0px;
+}
+
